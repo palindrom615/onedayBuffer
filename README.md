@@ -1,7 +1,7 @@
 # onedayBuffer
 
-![main screen of app] (Screenshot1.png)
-![log of app] (Screenshot2.png)
+![main screen of app] (screenshot1.png)
+![log of app] (screenshot2.png)
 
 This app records one's experiences and feelings of the day. you can find your logs in app only on the day logs written. Logs are reset when the new day comes. This is why the name of app is oneday Buffer.
 
